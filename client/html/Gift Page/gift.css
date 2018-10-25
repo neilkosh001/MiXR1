@@ -1,0 +1,80 @@
+
+body {
+    background-image: url("https://wallpapertag.com/wallpaper/full/5/2/a/560174-top-cigar-wallpaper-2048x1356-hd-1080p.jpg");
+    background-attachment: fixed;
+}
+
+
+
+
+
+
+* {
+    box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+    width: 44%;
+    padding: 10px;
+    height: 300px; /* Should be removed. Only for demonstration */
+    margin: auto;
+    border-radius: 15px;
+     padding: 0 !important;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  
+  }
+  
+  .greytop {
+    background-color: lightgrey;
+      border-radius: 15px 15px 0 0;
+  
+  }
+  
+  .grey-title {
+   padding: 10px;
+   text-transform: uppercase;
+   margin: 0;
+  }
+  
+  .whitebottom {
+    background-color: white;
+    height: 250px;
+    padding: 5%;
+    border-radius: 0 0 15px 15px;
+  }
+  
+  .description {
+   margin: 0;
+   font-size: 0.9rem;
+  }
+  
+  .button-div {
+   width:100%;
+   display: flex;
+   justify-content: center;
+   margin: 20px auto;
+  }
+
+  
+  
+  div.button {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #918a79;
+    border-color: #007bff;
+    text-align: center;
+    
+}

@@ -1,0 +1,57 @@
+body {
+
+    background-image: url("https://wallpapertag.com/wallpaper/full/5/2/a/560174-top-cigar-wallpaper-2048x1356-hd-1080p.jpg");
+
+    background-attachment: fixed;
+
+}
+
+
+
+
+
+
+
+.jumbotron {
+
+    opacity: .5;
+
+    background-color: bisque;
+
+}
+
+
+
+  
+
+
+
+  .btn-primary {
+
+    color: #fff;
+
+    background-color: #918a79;
+
+    border-color: #007bff;
+
+    text-align: center;
+
+    
+
+}
+
+
+
+
+
+div.button {
+
+    display: flex;
+
+    justify-content: center;
+
+    opacity: .5;
+
+
+
+}
